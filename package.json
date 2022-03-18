@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nathan-Cahill/sit737-2022-t1-prac2/issues"
   },
-  "homepage": "https://github.com/Nathan-Cahill/sit737-2022-t1-prac2#readme"
+  "homepage": "https://github.com/Nathan-Cahill/sit737-2022-t1-prac2#readme",
+  "dependencies": {
+    "node": "^17.7.1"
+  }
 }
